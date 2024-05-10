@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area-img.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Noor Arabian LLC"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  content : "Let's collaborate and create something incredible together! "
   button:
     enable : true
     label : "Explore Us"
