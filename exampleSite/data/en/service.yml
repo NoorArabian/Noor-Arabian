@@ -30,4 +30,4 @@ service:
     # service item loop
     - name : Direct Trading
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Experience direct trading with us! Cut out the middleman and enjoy seamless transactions, personalized service, and competitive pricing. Connect directly with our team to explore a smoother, more efficient trading experience tailored to your needs.
+      content : Discover a new level of trading efficiency with us! Experience direct trading that eliminates the middleman, ensuring seamless transactions, personalized service, and competitive pricing. Connect directly with our expert team to explore a tailored trading experience designed to meet your unique needs
