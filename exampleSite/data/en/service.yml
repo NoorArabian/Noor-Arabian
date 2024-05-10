@@ -27,6 +27,7 @@ service:
     - name : E-Commerce
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
       content : It involves the facilitation of online transactions between a business and external vendors, suppliers, or sellers. This collaborative approach enables businesses to expand their product offerings, streamline operations, and reach a wider customer base by leveraging the resources and expertise of external partners.
+    # service item loop
     - name : Direct Trading
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
       content : Experience direct trading with us! Cut out the middleman and enjoy seamless transactions, personalized service, and competitive pricing. Connect directly with our team to explore a smoother, more efficient trading experience tailored to your needs.
