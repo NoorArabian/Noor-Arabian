@@ -5,29 +5,29 @@ service:
   service_item :
     # service item loop
     - name : General/ Any Goods Trading
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      image_webp : images/img1.jpg
       content : Buying and selling a wide range of goods or commodities across industries. Often involves activities such as wholesale, distribution, import/export, and retail. It may deal with diverse products, from consumer goods to industrial equipment.
       
     # service item loop
     - name : Perfumes/ Cosmetics Trading
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      image_webp : images/img2.jpg
       content : Engage in the vibrant world of perfumes and cosmetics trading, where luxury meets innovation. Explore an array of exquisite fragrances, skincare essentials, and makeup must-haves sourced from renowned brands worldwide. 
       
     # service item loop
     - name : Advertisement/ Marketing
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+       image_webp : images/img3.jpg
       content : Unlock endless possibilities with our innovative products/services! Elevate your experience with cutting-edge technology and exceptional quality. Discover convenience, reliability, and style like never before. Embrace the future today!
       
     # service item loop
     - name : Employment Agency
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      image_webp : images/img4.jpg
       content : Acts as a bridge between job seekers and employers, facilitating the process of matching qualified candidates with available job opportunities. We provide services such as job placement, resume assistance, and career counseling to both individuals seeking employment and companies seeking qualified talent. 
       
     # service item loop
     - name : E-Commerce
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      image_webp : images/img5.jpg
       content : It involves the facilitation of online transactions between a business and external vendors, suppliers, or sellers. This collaborative approach enables businesses to expand their product offerings, streamline operations, and reach a wider customer base by leveraging the resources and expertise of external partners.
     # service item loop
     - name : Direct Trading
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      image_webp : images/img6.jpg
       content : Discover a new level of trading efficiency with us! Experience direct trading that eliminates the middleman, ensuring seamless transactions, personalized service, and competitive pricing. Connect directly with our expert team to explore a tailored trading experience designed to meet your unique needs
