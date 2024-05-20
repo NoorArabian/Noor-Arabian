@@ -15,7 +15,7 @@ service:
       
     # service item loop
     - name : Advertisement/ Marketing
-       image_webp : images/img3.jpg
+      image_webp : images/img3.jpg
       content : Unlock endless possibilities with our innovative products/services! Elevate your experience with cutting-edge technology and exceptional quality. Discover convenience, reliability, and style like never before. Embrace the future today!
       
     # service item loop
