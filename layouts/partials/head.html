@@ -7,7 +7,18 @@
 	<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
 	{{ with site.Params.author }}
 	<meta name="author" content="{{ . }}">{{ end }}
-	
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Noor Arabian LLC" />
+	<meta name="twitter:description" content='Noor Arabian LLC' />
+	<meta name="twitter:creator" content="Noor Arabian LLC" />
+	<meta name="twitter:image" content="https://noorarabian.com/images/backgrounds/hero-area-img.jpg" />
+	<meta name="twitter:site" content="https://noorarabian.com" />
+	<meta property="og:title"content="Noor Arabian LLC"/>
+	<meta property="og:url" content="https://noorarabian.com" />
+	<meta property="og:image" content="https://noorarabian.com/images/backgrounds/hero-area-img.jpg" />
+	<meta property="og:type" content="website"/>
+  <meta property="og:description"content='Noor Arabian LLC'/>
+	<meta property="og:locale" content="en_US"/>
 	<!-- theme meta -->
         <meta name="theme-name" content="meghna-hugo" />
 	{{ hugo.Generator }}
