@@ -6,12 +6,12 @@ service:
     # service item loop
     - name : General/ Any Goods Trading
       image_webp : images/img1.jpg
-      content : Buying and selling a wide range of goods or commodities across industries. Often involves activities such as wholesale, distribution, import/export, and retail. It may deal with diverse products, from consumer goods to industrial equipment.
+      content : Buying and selling a wide range of goods or commodities across industries. Often involves activities such as wholesale, distribution, import/export and retail. It may deal with diverse products, from consumer goods to industrial equipment.
       
     # service item loop
     - name : Perfumes/ Cosmetics Trading
       image_webp : images/img2.jpg
-      content : Engage in the vibrant world of perfumes and cosmetics trading, where luxury meets innovation. Explore an array of exquisite fragrances, skincare essentials, and makeup must-haves sourced from renowned brands worldwide. 
+      content : Engage in the vibrant world of perfumes and cosmetics trading, where luxury meets innovation. Explore an array of exquisite fragrances, skincare essentials and makeup must-haves sourced from renowned brands worldwide. 
       
     # service item loop
     - name : Advertisement/ Marketing
@@ -21,12 +21,12 @@ service:
     # service item loop
     - name : Employment Agency
       image_webp : images/img4.jpg
-      content : Acts as a bridge between job seekers and employers, facilitating the process of matching qualified candidates with available job opportunities. We provide services such as job placement, resume assistance, and career counseling to both individuals seeking employment and companies seeking qualified talent. 
+      content : Acts as a bridge between job seekers and employers, facilitating the process of matching qualified candidates with available job opportunities. We provide services such as job placement, resume assistance and career counseling to both individuals seeking employment and companies seeking qualified talent. 
       
     # service item loop
     - name : E-Commerce
       image_webp : images/img5.jpg
-      content : It involves the facilitation of online transactions between a business and external vendors, suppliers, or sellers. This collaborative approach enables businesses to expand their product offerings, streamline operations, and reach a wider customer base by leveraging the resources and expertise of external partners.
+      content : It involves the facilitation of online transactions between a business and external vendors, suppliers, or sellers. This collaborative approach enables businesses to expand their product offerings, streamline operations and reach a wider customer base by leveraging the resources and expertise of external partners.
     
     # service item loop
     - name : Direct Trading
