@@ -27,6 +27,7 @@ service:
     - name : E-Commerce
       image_webp : images/img5.jpg
       content : It involves the facilitation of online transactions between a business and external vendors, suppliers, or sellers. This collaborative approach enables businesses to expand their product offerings, streamline operations, and reach a wider customer base by leveraging the resources and expertise of external partners.
+    
     # service item loop
     - name : Direct Trading
       image_webp : images/img6.jpg
