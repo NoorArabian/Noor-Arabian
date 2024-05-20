@@ -5,7 +5,7 @@ about:
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : We're Creative
-    content : Our commitment to originality, innovation, and imaginative thinking drives everything we do. By embracing creativity at every turn, we strive to lead the way in shaping a brighter, more imaginative future.
+    content : Our commitment to originality, innovation and imaginative thinking drives everything we do. By embracing creativity at every turn, we strive to lead the way in shaping a brighter, more imaginative future.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : We're Professional
@@ -13,4 +13,4 @@ about:
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : We're Genuine
-    content : Authenticity is at the core of everything we do. From our products to our customer interactions, you can trust that we operate with honesty, integrity, and sincerity. With us, what you see is what you get genuine quality and genuine care.
+    content : Authenticity is at the core of everything we do. From our products to our customer interactions, you can trust that we operate with honesty, integrity and sincerity. With us, what you see is what you get genuine quality and genuine care.
