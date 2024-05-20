@@ -12,7 +12,7 @@ feature:
       #content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
       # feature item loop
-    - title : Wholesale distribution of perfumery, cosmetics, beauty products, and soaps
+    - title : Wholesale distribution of perfumery, cosmetics, beauty products and soaps
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
       #content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
@@ -22,6 +22,6 @@ feature:
       #content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
       # feature item loop
-    - title : Personnel search, selection, referral, and placement services.
+    - title : Personnel search, selection, referral and placement services.
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
       #content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
